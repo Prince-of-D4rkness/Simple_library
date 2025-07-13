@@ -13,7 +13,7 @@ This repository is intended for **educational and fair use** purposes only.
   Activate venv:
     .\venv\Scripts\activate
 
-2.  Install requirments.txt with the command "pip install -r requirements.txt"
+2.  Install requirements.txt with the command "pip install -r requirements.txt"
 
 3.  Apply database migrations:
       "python manage.py migrate"
